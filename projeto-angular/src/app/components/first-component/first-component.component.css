@@ -1,3 +1,13 @@
 h2, h3 {
   color: purple;
 }
+
+.title {
+  background: #000;
+  color: aqua;
+  padding: 15px;
+}
+
+p {
+  padding: 5px;
+}
